@@ -361,3 +361,46 @@ font-size: 20px;
 font-weight: 700;
 border: none;
 }
+
+/* now its time to end  */
+.footer{
+    width: 1922px;
+    height: 449px;
+    flex-shrink: 0;
+    background: #111010;
+    display: flex;
+    margin-top: 128px;
+    
+}
+.footer-head{
+color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+margin: 0px 832px 0px 831px;
+}
+.kisu-ekta{
+    color: #E55473;
+    align-content: center;
+}
+.footer-text{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 24px;
+}
+.height{
+    margin-top: 128px;
+}
+.copyright{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+}
