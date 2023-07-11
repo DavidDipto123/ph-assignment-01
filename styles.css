@@ -43,14 +43,12 @@
 .btn-primary {
     border-radius: 8px;
     background: #E55473;
-    align-items: flex-start;
     padding: 20px 43px;
-    align-items: flex-start;
     gap: 10px;
     color: white;
     border: none;
     font-size: 20px;
-    margin: 32px 628px 147px 240px;
+   margin-left: 240px;
 
 }
 
